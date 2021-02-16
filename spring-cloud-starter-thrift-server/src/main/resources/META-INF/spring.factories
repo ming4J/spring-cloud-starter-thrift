@@ -1,0 +1,3 @@
+cn.shellming.thrift.server.annotation.EnableThriftServer=\
+cn.shellming.thrift.server.ThriftServerAutoConfiguration,\
+cn.shellming.thrift.server.ThriftServerDiscoveryConfiguration

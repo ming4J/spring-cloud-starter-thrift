@@ -1,0 +1,2 @@
+cn.shellming.thrift.client.annotation.EnableThriftClient=\
+cn.shellming.thrift.client.ThriftClientAutoConfiguration
